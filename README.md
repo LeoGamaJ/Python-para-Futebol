@@ -8,4 +8,4 @@
 
 * Coleta 
 * Limpeza
-*Análise Exploratória de dados de Futebol
+* Análise Exploratória de dados de Futebol
