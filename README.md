@@ -1,11 +1,13 @@
 # Python for Football / Python para Futebol
 
-* Collection
-* Cleaning 
+* Extraction, Data Collection
+* Transformation, Data Cleansing
+* Loading, Saving Data
 * Exploratory Analysis of Football Data
 
 //
 
-* Coleta 
-* Limpeza
-* Análise Exploratória de dados de Futebol
+* Extração, coleta de Dados
+* Transformação, limpeza de Dados
+* Carreggando, salvando Dados
+* Análise Exploratória de Dados de Futebol
