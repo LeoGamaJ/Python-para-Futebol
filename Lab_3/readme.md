@@ -1,6 +1,6 @@
 ### Python for Football Data Analysis
 
-8 Emphasis on Pandas
+* Emphasis on Pandas
 
 // 
 
